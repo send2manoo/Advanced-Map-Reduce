@@ -4,6 +4,7 @@ Topics:
     
     1) Combiner
     2) Partitioner
-    3) Muliple Mapper
-    4) Custom Input Form
+    3) Distributed Cache
+    4) Muliple Mapper
+    5) Custom Input Form
       
